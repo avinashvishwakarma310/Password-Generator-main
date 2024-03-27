@@ -1,7 +1,4 @@
-# Preview
-
-
-
+# Live preview
 
 # Password-Generator
 
